@@ -1,3 +1,4 @@
+# APPROACH AS SUGGESTED BY PHIND
 To implement the rules you described, you can follow these steps:
 
 ## MINIMIZE DAMAGE
