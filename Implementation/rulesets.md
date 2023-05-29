@@ -1,4 +1,5 @@
 ## MACHINE COMMUNISM
+A gane based in mutual cooperation between participants.
 
 ## SIMPLE RULES
 Feel free to add on to this software.<br />
