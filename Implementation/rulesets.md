@@ -11,6 +11,8 @@ Your score is defined by how many things youve contributed that dont mess with t
 
 Your negative score is defined as how many things youve created that mess with the functionality others have contributed.<br />
 
+This includes penalty for attention seeking behaviour that effects others creations. Ex. AI Hype.<br />
+
 ## PRIORITY
 Focus should first be on minimizing damage from things you add that dont mess with others creations.
 
