@@ -1,6 +1,11 @@
 ## MACHINE COMMUNISM
 A gane based in mutual cooperation between participants.
 
+## BACKGROUND
+For my background in artificialintelligence. In fact this form of socialism may be most implementable in distributed / federated systems.
+
+[Portfolio](https://github.com/LWFlouisa/MarshallUnlearning)
+
 ## SIMPLE RULES
 Feel free to add on to this software.<br />
 Dont take away from anything anyone else has built.<br />
