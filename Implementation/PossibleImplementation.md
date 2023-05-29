@@ -1,3 +1,6 @@
+## Possible Implementation
+But don't implement just yet.
+
 ## Source Code Example
 ~~~ruby
 def add_new_feature
