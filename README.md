@@ -18,3 +18,9 @@ Focus should first be on minimizing damage from things you add that dont mess wi
 
 ## ENDGAME
 Endgame is defined as the total limit of a 2D or 3D canvas at 100% capacity divided by the total space actually taken in pixels or vectors.
+
+## Phinds Approach
+[Approach Proposed By A Chatbot](https://lwflouisa.github.io/MachineCommunism/Implementation/PhindsApproach)
+
+## Simularities With Yin And Yang
+[Comparison With Eastern Religions](https://lwflouisa.github.io/MachineCommunism/Implementation/SimularitiesWithYinAndYang.html)
